@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+
+        <file>movim/index.html</file>
+        <file>movim/script.js</file>
+        <file>movim/style.css</file>
+        <file>movim/img/puff.svg</file>
+        <file>movim/img/logo_cloud.svg</file>
+    </qresource>
+</RCC>
